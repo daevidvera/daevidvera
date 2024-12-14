@@ -6,7 +6,7 @@ I am learning about Software Development and Cybersecurity. I strive to bridge i
 
 
 
-##  Software Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+<h2>Software Skills 🛠️ </h2>
 
 <h4> Languages </h4>
 <span> 
@@ -46,7 +46,6 @@ I am learning about Software Development and Cybersecurity. I strive to bridge i
 <span>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </span>
 <!---
 daevidvera/daevidvera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
