@@ -28,6 +28,7 @@ I am learning about Software Development and Cybersecurity. I strive to bridge i
 <h4> Frameworks </h4>
 <span>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
 </span>
 
 <h4> Databases </h4>
@@ -47,7 +48,4 @@ I am learning about Software Development and Cybersecurity. I strive to bridge i
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS">
 </span>
-<!---
-daevidvera/daevidvera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
