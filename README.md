@@ -1,5 +1,5 @@
 # About me!
 **`Computer Engineer Student  @ Georgia Tech '27`**
 
-Hi, I’m Carlos David Rivera, a Computer Engineering student at Georgia Tech. Raised in San Pedro Sula, Honduras,
+Hi, I’m Carlos David Rivera, a Computer Engineering student at Georgia Tech. 
 I am learning about Distributed Systems/Software Design & Systems and Architecture. I strive to bridge innovative solutions with cutting-edge technology to make a meaningful impact.
